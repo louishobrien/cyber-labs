@@ -14,3 +14,9 @@ Build practical cybersecurity skills that I can demonstrate to employers
 and use in real-world environments — from automation to ethical hacking.
 
 > This repo evolves with my knowledge. Stay tuned.
+
+## 🖼️ Demo Screenshot
+
+Here’s what it looks like when the password generator runs:
+
+![Password Demo](images/password_demo.png)
